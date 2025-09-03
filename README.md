@@ -36,7 +36,7 @@ To be updated.
 
 ## License
 
-ThermoOpt is made freely available under the terms of  license. See LICENSE for details.
+ThermoOpt is made freely available under the terms of Simplified BSD license. See LICENSE for details.
 
 ## Acknowledgments
 
