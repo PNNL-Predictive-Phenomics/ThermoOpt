@@ -17,7 +17,8 @@ Use Cases:
 
 ThermoOpt uses a dynamical systems approach coupled with ordinary differential equations (ODEs) to model environmental perturbations, metabolic behavior, and thermodynamic bottlenecks. It applies the maximum entropy production rate method to optimize reaction parameters for maximal biomass production, providing insights into processes such as byproduct inhibition and nutrient uptake. By addressing challenges like ethanol buildup during yeast fermentation, ThermoOpt mechanistically predicts cellular regulation under shifting thermodynamic gradients, offering a powerful tool for understanding metabolic dynamics without extensive experimental efforts.
 
-
+Requirements:
+- Coin-hsl required for interior point optimization method https://licences.stfc.ac.uk/product/coin-hsl
 
 How To:
 
